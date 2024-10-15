@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 
-- 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world of Artificial Intelligence, Gen AI, and Computer Vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
+- 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world of Artificial Intelligence, Gen AI, and Computer Vision. 
   
 
 - 🌐 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Samyak_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyak-jain-5b694126a/)](https://www.linkedin.com/in/samyak-jain-5b694126a/) [![Gmail Badge](https://img.shields.io/badge/-samyak15.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samyak15.sj@gmail.com)](mailto:samyak15.sj@gmail.com)
