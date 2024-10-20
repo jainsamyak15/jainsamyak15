@@ -1,23 +1,20 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsamyak15&color=green" alt="jainsamyak15" /> </p>
+p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsamyak15&color=green" alt="jainsamyak15" /> </p>
 
-### Hi there, I am Samyak Jain 👋
+# Hi there, I'm Samyak Jain 👋
 
-# 💫 About Me:
+## 💫 About Me
+- 🤖 Third-year B.Tech student in AI & Data Science at IPU, passionate about Machine Learning, Computer Vision, and Generative AI
+- 🎯 Currently working on computer vision projects and building AI-powered automation solutions
+- 🌱 Learning Applied Data Science at WorldQuant University
+- 💼 Recent ML Intern at Liberin Technologies
 
-
-- 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world of Artificial Intelligence, Gen AI, and Computer Vision. 
+## 🎯 Areas of Expertise
+- Machine Learning & Deep Learning
+- Computer Vision (YOLO, OpenCV)
+- Natural Language Processing
+- Full Stack Development
+- Data Analysis & Visualization
   
-
-- 🌐 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Samyak_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyak-jain-5b694126a/)](https://www.linkedin.com/in/samyak-jain-5b694126a/) [![Gmail Badge](https://img.shields.io/badge/-samyak15.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samyak15.sj@gmail.com)](mailto:samyak15.sj@gmail.com)
-
-<br>
-
-# 💻 What I do:
-- Python Development  
-- Artificial Intelligence   
-- Web Development  
-<br>
-
 # 🛠 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
