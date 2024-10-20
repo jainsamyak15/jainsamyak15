@@ -1,4 +1,4 @@
-p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsamyak15&color=green" alt="jainsamyak15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsamyak15&color=green" alt="jainsamyak15" /> </p>
 
 # Hi there, I'm Samyak Jain 👋
 
