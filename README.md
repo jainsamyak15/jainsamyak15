@@ -51,7 +51,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jainsamyak15&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainsamyak15&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jainsamyak15&theme=shadow_green&hide_border=false&v=1)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jainsamyak15&theme=shadow_green&hide_border=false)
 
 
 <br>
