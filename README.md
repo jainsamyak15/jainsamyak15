@@ -6,6 +6,7 @@
 - 🤖 Third-year B.Tech student in AI & Data Science at IPU, passionate about Machine Learning, Computer Vision, and Generative AI
 - 🎯 Currently working on computer vision projects and building AI-powered automation solutions
 - 🌱 Learning Applied Data Science at WorldQuant University
+- 🗣️ Learning German
 - 💼 Recent ML Intern at Liberin Technologies
 
 ## 🎯 Areas of Expertise
